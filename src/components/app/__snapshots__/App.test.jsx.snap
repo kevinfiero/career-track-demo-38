@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App component renders App 1`] = `
+<DocumentFragment>
+  <form>
+    <label
+      for="url"
+    >
+      URL
+    </label>
+    <input
+      id="url"
+      type="url"
+      value=""
+    />
+    <button>
+      Shorten
+    </button>
+  </form>
+  <ul />
+</DocumentFragment>
+`;
